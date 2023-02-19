@@ -1,0 +1,10 @@
+.lead__img-text {
+    margin-top: 64px;
+}
+
+@media (max-width: 320px)
+{
+    .lead__img-text {
+        margin-top: 0px;
+    }
+}

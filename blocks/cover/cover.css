@@ -1,0 +1,17 @@
+.cover {
+    margin: 0px 48px;
+}
+
+@media (max-width: 1024px)
+{
+    .cover {
+        margin: 0;
+    }
+}
+
+@media (max-width: 320px) {
+    .cover {
+        margin-top: 66px;
+        margin-bottom: 64px;
+    }
+}

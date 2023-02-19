@@ -1,0 +1,19 @@
+.footer__elem {
+    margin-right: 18px;
+    list-style-type: none;
+}
+
+.footer__elem:last-of-type {
+    margin-right: 0;
+}
+
+@media (max-width: 320px) {
+    .footer__elem {
+        font-size: 24px;
+        margin: 0 0 32px 0;
+    }
+
+    .footer__item:last-of-type {
+        margin-bottom: 42px;
+    }
+}
