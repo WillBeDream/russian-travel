@@ -1,5 +1,5 @@
 .header__lang-link {
-    text-decoration: underline;
+    text-decoration: none;
     font-style: normal;
     font-weight: 400;
     font-size: 24px;
@@ -10,7 +10,10 @@
 
 .header__lang-link:nth-child(2n) {
     margin-left: 18px;
-    text-decoration: none;
+}
+
+.header__lang-link:hover {
+    opacity: 0.8;
 }
 
 @media (max-width: 425px) {

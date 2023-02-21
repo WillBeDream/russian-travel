@@ -13,7 +13,7 @@
         margin: 0 0 32px 0;
     }
 
-    .footer__item:last-of-type {
+    .footer__elem:last-of-type {
         margin-bottom: 42px;
     }
 }

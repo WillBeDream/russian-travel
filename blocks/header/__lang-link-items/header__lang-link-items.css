@@ -1,5 +1,6 @@
-.header__lang-link-tems {
+.header__lang-link-items {
     display: flex;
-    justify-content: space-between;
-    align-items: flex-end;
+    justify-content: flex-end;
+    padding: 0;
+    margin: 0;
 }
