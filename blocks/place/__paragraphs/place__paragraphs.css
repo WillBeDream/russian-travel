@@ -11,6 +11,7 @@
 @media (max-width: 768px) {
     .place__paragraphs {
         max-width: 352px;
+        margin: 0 auto;
     }
 }
 

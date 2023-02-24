@@ -15,7 +15,7 @@
     .place__website{
         grid-area: url;
         width: 288px;
-        margin: 0;
+        margin: 0 auto;
     }
 }
 
